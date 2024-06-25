@@ -1,1 +1,1 @@
-# custom-iso
+# steps to build the custom iso
