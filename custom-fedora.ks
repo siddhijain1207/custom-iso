@@ -66,6 +66,4 @@ EOF
 # Refresh repo metadata and install packages
 dnf clean all
 dnf makecache
-# Install VSCode, Zoom, GitHub Desktop, and Google Chrome
-dnf install -y code google-chrome-stable github-desktop zoom
 %end
