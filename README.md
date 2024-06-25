@@ -15,6 +15,7 @@
 ## Installation 
 1. Use anf VM software, I have used VMware to boot.
 2. Follow the standard requisites required for the installation of fedora.
+         link: https://fedoraproject.org/workstation/download
 ## Verification steps
 1. After the installation of Github, Zoom, VSCode, Google Chrome verify it by:
      code --version (vsc)
